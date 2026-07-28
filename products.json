@@ -1,0 +1,24 @@
+[
+  {
+    "id": "aerobike-2-bicis",
+    "nombre": "Portabicicletas abatible manual para 2 bicicletas",
+    "marca": "AeroBike",
+    "categoria": "portabicicletas",
+    "precio": 590000,
+    "nota": "Enganche al tiro de arrastre, brazos abatibles para acceso al baúl sin desmontar",
+    "capacidad": "2 bicicletas",
+    "imagen": "images/aerobike-2bicis-1.jpg",
+    "galeria": ["images/aerobike-2bicis-1.jpg", "images/aerobike-detalle-logo.jpg"]
+  },
+  {
+    "id": "aerobike-3-bicis",
+    "nombre": "Portabicicletas abatible manual para 3 bicicletas",
+    "marca": "AeroBike",
+    "categoria": "portabicicletas",
+    "precio": 690000,
+    "nota": "Enganche al tiro de arrastre, brazos abatibles para acceso al baúl sin desmontar",
+    "capacidad": "3 bicicletas",
+    "imagen": "images/aerobike-3bicis-1.jpg",
+    "galeria": ["images/aerobike-3bicis-1.jpg", "images/aerobike-detalle-logo.jpg"]
+  }
+]

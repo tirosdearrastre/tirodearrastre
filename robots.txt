@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tirodearrastre.com.co/sitemap.xml
